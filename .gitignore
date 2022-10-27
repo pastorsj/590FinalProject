@@ -129,3 +129,9 @@ dmypy.json
 .pyre/
 data/images/
 data/*.zip
+yolov5_model/yolov5/
+data/training/
+data/testing/
+data/validation/
+models/yolo_worms_validation/
+models/yolo_worms_testing/
