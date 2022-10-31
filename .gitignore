@@ -130,8 +130,7 @@ dmypy.json
 data/images/
 data/*.zip
 yolov5_model/yolov5/
-data/training/
-data/testing/
-data/validation/
+data/yolo/
+data/rcnn/
 models/yolo_worms_validation/
 models/yolo_worms_testing/
