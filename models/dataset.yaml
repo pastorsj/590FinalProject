@@ -1,5 +1,5 @@
-train: ../../../data/training/
-val: ../../../data/validation/
+train: ../../../data/yolo/training/
+val: ../../../data/yolo/validation/
 
 # number of classes
 nc: 2
