@@ -132,6 +132,7 @@ data/*.zip
 yolov5_model/yolov5/
 data/yolo/
 data/rcnn/
+data/regression/
 models/yolo_worms_validation/
 models/yolo_worms_testing/
 results/rcnn/test_predictions/
