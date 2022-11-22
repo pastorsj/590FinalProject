@@ -133,7 +133,10 @@ yolov5_model/yolov5/
 data/yolo/
 data/rcnn/
 data/regression/
+data/detectron2/
 models/yolo_worms_validation/
 models/yolo_worms_testing/
+models/mask_worms/
+models/output/
 results/rcnn/test_predictions/
 *.pth
